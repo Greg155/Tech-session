@@ -26,5 +26,41 @@ Semaine 1 : 14/9-18/9
 
 	Norane : Monnaie digitale mondiale de Facebook
 	https://www.latribune.fr/entreprises-finance/banques-finance/pourquoi-facebook-lance-une-monnaie-digitale-mondiale-libra-basee-sur-la-blockchain-820692.html
+
+Semaine 2 : 21/9-25/9
+
+	Jonas : ordinateur quantique
+	https://www.futura-sciences.com/sciences/definitions/physique-ordinateur-quantique-4348/
+	
+	Kilian : GPT3 // IR ROBOT article
+	https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
+
+	greg: IA robot
+	https://www.theverge.com/2020/9/24/21454872/amazon-ring-always-home-cam-flying-drone-ad-demo
+
+	Kacper : RING alarm
+	https://nl.mashable.com/tech/2606/tesla-als-eerste-auto-compatible-met-amazons-ring-car-connect
+
+	Antoine : starlink 
+	https://www.starlink.com/
+
+	walid : Gameboy battry free
+	https://app.slack.com/client/T6SG2QGG2/D01BE3BBZDG/details/shared_files
+
+	Yanis : Mask intelligent
+	https://www.futura-sciences.com/tech/actualites/technologie-masques-detectent-coronavirus-autres-innovations-81064/
+	
+	Antoine : Bulma
+	https://bulma.io/ 
+
+	Norane : clavier-laser
+	
+	Sanaa : Tesla voiture
+	
+	pierre : state of art of Javascript 
+	https://2019.stateofjs.com/
+	
+ 
+	
 	
 	
