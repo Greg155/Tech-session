@@ -60,7 +60,44 @@ Semaine 2 : 21/9-25/9
 	pierre : state of art of Javascript 
 	https://2019.stateofjs.com/
 	
- 
+Semaine 3 : 28/09-2/10
+	
+	Kacper : eSIM
+	https://www.pocket-lint.com/phones/news/motorola/134640-what-is-an-esim-and-how-will-it-change-connected-devices-for-the-better
+	
+	Sana : peau artificielle
+	https://www.futura-sciences.com/tech/actualites/technologie-cette-peau-artificielle-reagit-douleur-comme-vraie-peau-humaine-82838/
+	
+	Nadine : Casque de moto connecté
+	https://www.futura-sciences.com/tech/actualites/technologie-ce-casque-moto-hi-tech-promet-sauver-vies-82532/
+	
+	Antoine : Serverur windows dans la mer
+	https://www.futura-sciences.com/tech/actualites/informatique-microsoft-experience-data-center-sous-eau-reussite-totale-61458/
+	
+	Jonas : chaussure VR
+	https://venturebeat.com/2020/09/27/ektos-robotic-boots-may-solve-vr-locomotion-problems/
+	
+	Norane: battry endless
+	https://www.futura-sciences.com/tech/actualites/technologie-cette-batterie-nano-diamants-duree-vie-plusieurs-milliers-annees-83098/
+	
+	Antoine :
+	https://scotch.io/
+	
+	Yanis: lentille artificielle
+	https://www.futura-sciences.com/tech/actualites/technologie-lentille-contact-permet-zoomer-57219/
+	
+	Walid : extincteur ultrasons
+	https://www.futura-sciences.com/tech/videos/extincteur-revolutionnaire-souffle-flammes-grace-infrasons-1866/
+	
+	Killian : Google ecologique
+	https://sustainability.google/progress/energy/
+	
+	Gregory: devis voiture grace à l'IA
+	https://www.futura-sciences.com/tech/breves/voiture-automobile-ia-repere-defauts-voitures-quelques-secondes-3260/
+	
+	Pierre : Frontend Design 
+	https://tympanus.net/codrops/
+ 	
 	
 	
 	
