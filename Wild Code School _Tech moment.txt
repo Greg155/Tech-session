@@ -99,5 +99,21 @@ Semaine 3 : 28/09-2/10
 	https://tympanus.net/codrops/
  	
 	
+semaine 4 : 5/10 - 9/10
+	jonas : ai flow 
+	https://www.flow-machines.com/
 	
+	antoine : bundlephobia
+	https://bundlephobia.com/
+	
+	kacper : luminette 
+	https://www.myluminette.com/fr/luminette#agree
+	
+	antoine : fusion nucleaire
+	https://www.iter.org/fr/proj/inafewlines
+	
+	pierre : UX search bar 
+	https://blog.algolia.com/mobile-search-ux-best-practices/
+	
+	------ 
 	
