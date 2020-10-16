@@ -116,4 +116,27 @@ semaine 4 : 5/10 - 9/10
 	https://blog.algolia.com/mobile-search-ux-best-practices/
 	
 	------ 
+
+semaine 5 : 12/10 - 16/10
+	
+	killian : Z event 
+	zevent.fr
+	
+	Jonas : GPT-3 (AI)
+	https://openai.com/blog/openai-api/
+	
+	Kacper : TomTom & Uber
+	
+	Antoine : Miro ( white board )
+	https://miro.com/
+	
+	Yanis : robot dauphin
+	https://geeko.lesoir.be/2020/06/24/un-robot-dauphin-pour-remplacer-les-vrais-dauphins-dans-les-parcs/
+	
+	
+	
+	
+	
+	
+	
 	
