@@ -134,9 +134,23 @@ semaine 5 : 12/10 - 16/10
 	https://geeko.lesoir.be/2020/06/24/un-robot-dauphin-pour-remplacer-les-vrais-dauphins-dans-les-parcs/
 	
 	
+Semaine 6 : 19/10 - 23/10
 	
+	Gregory : IA voiture basé sur model biologique
+	https://ist.ac.at/en/news/new-deep-learning-models/
 	
+	Sanaa : Samsonite Konnect-i Backpack
+	https://www.futura-sciences.com/tech/actualites/smartphone-google-samsonite-lancent-premier-sac-dos-connecte-58454/
 	
+	Yanis : Veste connectée Levi's
 	
+	Walid: Material UI
+	https://material-ui.com/
 	
+	Pierre : React v17.0
+	https://reactjs.org/blog/2020/10/20/react-v17.html
 	
+	Killian : plus de import React from react -> Babel s'en charge
+	
+	Antoine Statam
+	https://rsuitejs.com/
