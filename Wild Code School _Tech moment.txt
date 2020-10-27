@@ -154,3 +154,8 @@ Semaine 6 : 19/10 - 23/10
 	
 	Antoine Statam
 	https://rsuitejs.com/
+	
+Semaine 7 : 26/10 - 30/10
+	
+	Gregory : Create-react-app version 4
+	https://github.com/facebook/create-react-app/releases
