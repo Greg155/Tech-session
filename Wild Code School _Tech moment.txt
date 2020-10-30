@@ -159,3 +159,32 @@ Semaine 7 : 26/10 - 30/10
 	
 	Gregory : Create-react-app version 4
 	https://github.com/facebook/create-react-app/releases
+	
+	Kacper : Cryptocurrency
+	https://www.theverge.com/2020/10/21/21527288/paypal-cryptocurrency-support-buy-sell-venmo-bitcoin
+	
+	Sanaa : smart tissu
+	https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-capacitivo-tissu-intelligent-reconnait-tout-ce-pose-table-83832/
+	
+	Antoine : Spot boston
+	https://www.bostondynamics.com/spot
+	
+	Norane : Quizz 
+	https://www.futura-sciences.com/tech/questions-reponses/multimedia-quiz-sont-nes-ces-produits-phares-tech-14437/
+	
+	Yanis : velo d'urgences
+	https://www.futura-sciences.com/tech/actualites/velo-electrique-velo-concu-medecins-urgentistes-debarque-paris-83006/
+	
+	Nadine: Ballon rescue me
+	https://www.digitaltrends.com/cool-tech/forget-flare-guns-pocket-sized-rescue-balloon-stays-aloft-days/?amp
+	
+	Antoine : plugin Chrome Visbug
+	https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en
+	
+	Pierre : Atomic Design by Brad Frost
+	https://atomicdesign.bradfrost.com/
+	
+	Killian : 
+	
+	Jonas : Solar roof
+	tesla.com/solarroof
