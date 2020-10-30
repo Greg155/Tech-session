@@ -184,7 +184,5 @@ Semaine 7 : 26/10 - 30/10
 	Pierre : Atomic Design by Brad Frost
 	https://atomicdesign.bradfrost.com/
 	
-	Killian : 
-	
 	Jonas : Solar roof
 	tesla.com/solarroof
