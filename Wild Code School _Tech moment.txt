@@ -186,3 +186,38 @@ Semaine 7 : 26/10 - 30/10
 	
 	Jonas : Solar roof
 	tesla.com/solarroof
+
+Semaine 8 : 2/11 - 6/11
+	
+	Gregory : AI-discovered molecules
+	https://www.technologyreview.com/10-breakthrough-technologies/2020/#ai-discovered-molecules
+	
+	Kacper: holograms
+	https://www.tuat.ac.jp/en/
+	
+	Antoine M.: API react animation
+	https://www.framer.com/apihttps://www.framer.com/api
+	
+	Sanaa : library animation JS
+	https://greensock.com/scrolltrigger/
+	
+	Yanis : Politics in gaming industries
+	https://www.begeek.fr/pour-faire-campagne-joe-biden-a-sa-propre-ile-sur-fortnite-349512
+	
+	Walid : Private data issues
+	The social dilemma / netflix
+	
+	Nadine : Robot-child for good medicine
+	https://www.futura-sciences.com/tech/actualites/drole-tech-drole-tech-robot-enfant-pleure-saigne-fin-aspirateur-remede-antistress-elon-musk-72736/
+	
+	Norane : emotional imaging
+	https://www.futura-sciences.com/tech/actualites/drole-tech-drole-tech-chaise-chaise-wc-parler-nos-sentiments-transformes-oeuvres-art-70290/
+	
+	Antoine G.: OneTab plugin
+	https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en
+	
+	Pierre : Security issues
+	https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.neowin.net%2Fnews%2Fgoogle-discloses-high-severity-security-flaw-in-github%2F
+	
+	
+	
