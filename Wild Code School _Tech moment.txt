@@ -219,5 +219,36 @@ Semaine 8 : 2/11 - 6/11
 	Pierre : Security issues
 	https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fwww.neowin.net%2Fnews%2Fgoogle-discloses-high-severity-security-flaw-in-github%2F
 	
+semaine 11 : 23/11 - 27/11
+	
+	Gregory : LeanCanvas
+	https://leanstack.com/leancanvas
+	
+	Kacper : wasp
+	https://wasp-lang.dev/#how-it-works
+	
+	Walid : ExpressJS
+	https://expressjs.com/
+	
+	Antoine G. : Chrome extension : JSONView
+	https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en
+	
+	Jonas : bit dev ( github-like for react component)
+	https://bit.dev/
+	
+	Killian : TypeScript 
+	https://www.typescriptlang.org/
+	
+	Sanaa : InterGuard
+	https://www.interguardsoftware.com/
+	
+	Antoine M. : shoelace bootstrap
+	http://shoelace.io/
+	
+	Pierre : Apple M1 processor
+	https://www.apple.com/mac/m1/
+	
+	Apple rumors:
+	https://buyersguide.macrumors.com/#MacBook_Air
 	
 	
