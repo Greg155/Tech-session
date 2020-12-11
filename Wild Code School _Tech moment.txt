@@ -271,3 +271,20 @@ Semaine 12 : 30/11 - 04/12
 	Nadine : Amazon sans contact avec sa paume de main
 	https://geeko.lesoir.be/2020/09/29/amazon-introduit-le-paiement-sans-contact-avec-la-paume-de-la-main/
 	
+Semaine 13 : 7/12 - 11/12 
+	
+	Gregory : AplhaFold2
+	https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology
+	
+	Sanaa: Rachid Yazami, Batterie au lithium
+	https://en.wikipedia.org/wiki/Rachid_Yazami
+	
+	Walid: Angular.io - Framework JS
+	https://angular.io/
+	
+	Pierre : Ordi Quantique vs Classic
+	https://www.lemonde.fr/sciences/article/2020/12/07/quand-l-ordinateur-quantique-de-google-se-fait-damer-le-pion-par-un-pc-classique_6062533_1650684.html
+	
+	
+	
+	
