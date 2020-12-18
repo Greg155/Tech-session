@@ -287,4 +287,23 @@ Semaine 13 : 7/12 - 11/12
 	
 	
 	
+Semain 14 : 14/12 - 18/12 
+
+	Kacper : Next.js 
+	https://venturebeat.com/2020/12/16/vercel-picks-up-40-million-to-advance-react-framework/amp/
+	
+	Jonas : Google Play Music migre Youtube music
+	https://www.phonandroid.com/google-play-musique-la-firme-supprime-la-boutique-musicale-du-play-store.html
+	
+	Pierre : Google panne
+	https://www.huffingtonpost.fr/entry/panne-generale-chez-google-voici-les-inconvenients-dune-maison-connectee_fr_5fd7744dc5b62f31c1fefe40
+	
+	Killian : Cyberpunk refunds because of bugs	
+	
+	Killian : PassportJs
+	http://www.passportjs.org/docs/authenticate/
+	
+	Nadine : cryptomoney Pi
+	https://cryptoast.fr/pi-project-blockchain-analyse-avis-explications/#:~:text=Pi%20est%20infini%2C%20inclusif%2C%20%C3%A9ternel,sur%20sa%20page%20d%27accueil
+	
 	
