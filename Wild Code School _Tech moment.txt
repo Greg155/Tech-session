@@ -287,7 +287,7 @@ Semaine 13 : 7/12 - 11/12
 	
 	
 	
-Semain 14 : 14/12 - 18/12 
+Semaine 14 : 14/12 - 18/12 
 
 	Kacper : Next.js 
 	https://venturebeat.com/2020/12/16/vercel-picks-up-40-million-to-advance-react-framework/amp/
@@ -306,4 +306,22 @@ Semain 14 : 14/12 - 18/12
 	Nadine : cryptomoney Pi
 	https://cryptoast.fr/pi-project-blockchain-analyse-avis-explications/#:~:text=Pi%20est%20infini%2C%20inclusif%2C%20%C3%A9ternel,sur%20sa%20page%20d%27accueil
 	
+Semaine 17 : 18/01/2021 - 22/01/2021
 	
+	Gregory : Microscope 3D
+	https://www.futura-sciences.com/tech/actualites/impression-3d-imprimer-vrai-microscope-chez-soi-cest-possible-80944/
+	
+	Yanis : Jittery Servos (wip)
+	https://www.reddit.com/r/arduino/comments/kp6kpd/jittery_servos_wip/?utm_source=share&utm_medium=web2x&context=3
+	
+	Antoine Meunier : wappalyzer
+	https://www.wappalyzer.com/
+	
+	Kacper : tabnine
+	https://www.tabnine.com/
+	
+	Sanaa : artificial lens
+	https://www.futura-sciences.com/tech/actualites/technologie-homme-recouvre-vue-grace-cornee-artificielle-85292/
+	
+	Pierre: Js demography
+	https://2020.stateofjs.com/en-US/demographics/
